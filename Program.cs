@@ -158,6 +158,8 @@ namespace Assignment_2_DIS
             }
         }
 
+        //Got to Know about Time complexity concept, diffrence between o(n) and o(log n), binary search concept also
+
         /*
          
         Question 2
@@ -221,6 +223,7 @@ namespace Assignment_2_DIS
             }
         }
 
+        //got to know how to use dictionary to store in C#
 
         /*
         Question 3:
@@ -385,6 +388,9 @@ namespace Assignment_2_DIS
             }
         }
 
+
+        //got to explore more about dictionries in C#
+
         /*
         Question 6
 
@@ -495,7 +501,7 @@ namespace Assignment_2_DIS
             }
         }
 
-
+        // solved using DS Stack(last in first out) : got to solve with less complexity and how DS is so powerful.
 
         /*
          Question 8
